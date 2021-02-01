@@ -1,0 +1,12 @@
+[
+    {
+        "modelo": "FX-D240",
+        "intervalo_envio": 20,
+        "potencia": 150
+    },
+    {
+        "modelo": "FX-R240",
+        "intervalo_envio": 30,
+        "potencia": 300
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "cnpj": "95.591.764/0001-05",
+        "nome_fantasia": "UFSM",
+        "endereco": "Av. Roraima, 1000 - SM - RS",
+        "valor_contrato": 9262
+    },
+    {
+        "cnpj": "92.964.944/0001-05",
+        "nome_fantasia": "Concessionária 1",
+        "endereco": "Av. Roraima, 1000 - SM - RS",
+        "valor_contrato": 1295
+    }
+]

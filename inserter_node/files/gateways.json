@@ -1,0 +1,29 @@
+[
+    {
+        "nome": "Gateway Fox",
+        "marca": "Radioenge",
+        "latitude": -29.7110,
+        "longitude": -53.7159,
+        "raio": 2000,
+        "numero_canais": 9,
+        "banda": 900
+    },
+    {
+        "nome": "Gateway Reitoria",
+        "marca": "Radioenge",
+        "latitude": -29.7208,
+        "longitude": -53.7147,
+        "raio": 2000,
+        "numero_canais": 9,
+        "banda": 900
+    },
+    {
+        "nome": "Gateway Concessinária 1",
+        "marca": "Dell",
+        "latitude": -33.0691,
+        "longitude": -92.3309,
+        "raio": 11000,
+        "numero_canais": 8,
+        "banda": 1067
+    }
+]
